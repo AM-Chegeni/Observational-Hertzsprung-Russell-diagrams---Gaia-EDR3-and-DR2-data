@@ -1,2 +1,2 @@
 # 3DCNNs
-A 3DCNNs model for generation relativistic cosmology N-body simulations
+A 3DCNNs model for generating relativistic cosmology N-body simulations
